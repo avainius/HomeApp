@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ViewModels\WorkerViewModel.cs" />
     <Compile Include="Views\WorkerUi.xaml.cs">
       <DependentUpon>WorkerUi.xaml</DependentUpon>
     </Compile>
